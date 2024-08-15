@@ -1,5 +1,7 @@
 # Test
 [Test](../link.md)
+
+New test thing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTAwMjk5OF19
+eyJoaXN0b3J5IjpbMjAxODkwNDQwNF19
 -->
